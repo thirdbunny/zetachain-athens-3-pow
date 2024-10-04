@@ -13,6 +13,4 @@ This repository serves as documentation and proof of participation in the ZetaCh
 
 - [Third Bunny](https://thirdbunny.xyz/) node: https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE
 - Latest logs:
-```
-_____
-```
+
