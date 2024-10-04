@@ -14,18 +14,6 @@ This repository serves as documentation and proof of participation in the ZetaCh
 - [Third Bunny](https://thirdbunny.xyz/) node: https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE
 - Latest logs:
 ```
-Fri Oct  4 09:41:42 PM UTC 2024 Your Node Height: 7076211 | Network Height: 7076211 | Blocks Left: 0
-Fri Oct  4 09:41:48 PM UTC 2024 Your Node Height: 7076212 | Network Height: 7076212 | Blocks Left: 0
-Fri Oct  4 09:41:53 PM UTC 2024 Your Node Height: 7076213 | Network Height: 7076213 | Blocks Left: 0
-Fri Oct  4 09:41:58 PM UTC 2024 Your Node Height: 7076214 | Network Height: 7076214 | Blocks Left: 0
-Fri Oct  4 09:42:03 PM UTC 2024 Your Node Height: 7076215 | Network Height: 7076215 | Blocks Left: 0
-Fri Oct  4 09:42:09 PM UTC 2024 Your Node Height: 7076216 | Network Height: 7076216 | Blocks Left: 0
-Fri Oct  4 09:42:14 PM UTC 2024 Your Node Height: 7076216 | Network Height: 7076216 | Blocks Left: 0
-Fri Oct  4 09:42:19 PM UTC 2024 Your Node Height: 7076217 | Network Height: 7076217 | Blocks Left: 0
-Fri Oct  4 09:42:25 PM UTC 2024 Your Node Height: 7076218 | Network Height: 7076218 | Blocks Left: 0
-Fri Oct  4 09:42:30 PM UTC 2024 Your Node Height: 7076219 | Network Height: 7076219 | Blocks Left: 0
-Fri Oct  4 09:42:35 PM UTC 2024 Your Node Height: 7076220 | Network Height: 7076220 | Blocks Left: 0
-Fri Oct  4 09:42:40 PM UTC 2024 Your Node Height: 7076221 | Network Height: 7076221 | Blocks Left: 0
 Fri Oct  4 09:42:46 PM UTC 2024 Your Node Height: 7076222 | Network Height: 7076222 | Blocks Left: 0
 Fri Oct  4 09:42:51 PM UTC 2024 Your Node Height: 7076223 | Network Height: 7076223 | Blocks Left: 0
 Fri Oct  4 09:42:56 PM UTC 2024 Your Node Height: 7076224 | Network Height: 7076224 | Blocks Left: 0
@@ -114,4 +102,16 @@ Fri Oct  4 09:50:11 PM UTC 2024 Your Node Height: 7076298 | Network Height: 7076
 Fri Oct  4 09:50:16 PM UTC 2024 Your Node Height: 7076299 | Network Height: 7076299 | Blocks Left: 0
 Fri Oct  4 09:50:22 PM UTC 2024 Your Node Height: 7076300 | Network Height: 7076300 | Blocks Left: 0
 Fri Oct  4 09:50:27 PM UTC 2024 Your Node Height: 7076301 | Network Height: 7076301 | Blocks Left: 0
+Fri Oct  4 09:50:32 PM UTC 2024 Your Node Height: 7076302 | Network Height: 7076302 | Blocks Left: 0
+Fri Oct  4 09:50:37 PM UTC 2024 Your Node Height: 7076303 | Network Height: 7076303 | Blocks Left: 0
+Fri Oct  4 09:50:43 PM UTC 2024 Your Node Height: 7076304 | Network Height: 7076304 | Blocks Left: 0
+Fri Oct  4 09:50:48 PM UTC 2024 Your Node Height: 7076305 | Network Height: 7076305 | Blocks Left: 0
+Fri Oct  4 09:50:53 PM UTC 2024 Your Node Height: 7076305 | Network Height: 7076305 | Blocks Left: 0
+Fri Oct  4 09:50:58 PM UTC 2024 Your Node Height: 7076306 | Network Height: 7076306 | Blocks Left: 0
+Fri Oct  4 09:51:04 PM UTC 2024 Your Node Height: 7076307 | Network Height: 7076307 | Blocks Left: 0
+Fri Oct  4 09:51:09 PM UTC 2024 Your Node Height: 7076308 | Network Height: 7076308 | Blocks Left: 0
+Fri Oct  4 09:51:14 PM UTC 2024 Your Node Height: 7076309 | Network Height: 7076309 | Blocks Left: 0
+Fri Oct  4 09:51:20 PM UTC 2024 Your Node Height: 7076310 | Network Height: 7076310 | Blocks Left: 0
+Fri Oct  4 09:51:25 PM UTC 2024 Your Node Height: 7076311 | Network Height: 7076311 | Blocks Left: 0
+Fri Oct  4 09:51:30 PM UTC 2024 Your Node Height: 7076312 | Network Height: 7076312 | Blocks Left: 0
 ```
