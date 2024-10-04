@@ -1,15 +1,20 @@
 log_file="$HOME/node_height_log.txt"
 template_file="./TEMPLATE.md"
+output_file="README.md"
 
 # Read the log file
 log_content=$(cat "$log_file")
 
 
 # Replace the placeholder "_____" with the content of node_height_log.txt
-sed -e "/Latest logs:/r $log_file" -e "/Latest logs:/,/$/d" "$template_file" > "README.md"
+cp $template_file $output_file	
+echo "\`\`\`"  >> $output_file
+echo "$log_content" >> $output_file
+echo "\`\`\`"  >> $output_file
 
 # Add changes to Git
-git add README.md
+git add "$output_file"
+
 
 # Commit the changes
 git commit -m "Updated node height logs"
