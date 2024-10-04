@@ -1,5 +1,5 @@
 # ZetaChain Athens 3 PoW Node Logs
-This repository contains logs and proof that I have successfully set up and run a node on the ZetaChain Athens 3 network. The logs demonstrate continuous node operation, including synchronization details and performance.
+This repository contains logs and proof that we have successfully set up and run a node on the ZetaChain Athens 3 network. The logs demonstrate continuous node operation, including synchronization details and performance.
 
 ## Contents
 - Node setup information
