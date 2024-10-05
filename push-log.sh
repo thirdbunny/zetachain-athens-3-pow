@@ -23,6 +23,6 @@ while true; do
 
   # Push the changes to GitHub
   git push origin main
-  sleep 60
+  sleep 300
 done
 
