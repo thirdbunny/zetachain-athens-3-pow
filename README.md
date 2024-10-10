@@ -14,24 +14,24 @@ This repository serves as documentation and proof of participation in the ZetaCh
 - [Third Bunny](https://thirdbunny.xyz/) node: https://athens.explorer.zetachain.com/address/0x225254d35dE666064Eccc5ce16eF1D8bF8D7b5EE
 - Latest logs:
 ```
-Thu Oct 10 07:27:26 AM UTC 2024 Your Node Height: 7156229 | Network Height: 7156229 | Blocks Left: 0
-Thu Oct 10 07:27:32 AM UTC 2024 Your Node Height: 7156230 | Network Height: 7156230 | Blocks Left: 0
-Thu Oct 10 07:27:37 AM UTC 2024 Your Node Height: 7156231 | Network Height: 7156231 | Blocks Left: 0
-Thu Oct 10 07:27:42 AM UTC 2024 Your Node Height: 7156232 | Network Height: 7156232 | Blocks Left: 0
-Thu Oct 10 07:27:47 AM UTC 2024 Your Node Height: 7156232 | Network Height: 7156232 | Blocks Left: 0
-Thu Oct 10 07:27:53 AM UTC 2024 Your Node Height: 7156233 | Network Height: 7156233 | Blocks Left: 0
-Thu Oct 10 07:27:58 AM UTC 2024 Your Node Height: 7156234 | Network Height: 7156234 | Blocks Left: 0
-Thu Oct 10 07:28:03 AM UTC 2024 Your Node Height: 7156235 | Network Height: 7156235 | Blocks Left: 0
-Thu Oct 10 07:28:09 AM UTC 2024 Your Node Height: 7156236 | Network Height: 7156236 | Blocks Left: 0
-Thu Oct 10 07:28:14 AM UTC 2024 Your Node Height: 7156237 | Network Height: 7156237 | Blocks Left: 0
-Thu Oct 10 07:28:19 AM UTC 2024 Your Node Height: 7156238 | Network Height: 7156238 | Blocks Left: 0
-Thu Oct 10 07:28:25 AM UTC 2024 Your Node Height: 7156239 | Network Height: 7156239 | Blocks Left: 0
-Thu Oct 10 07:28:30 AM UTC 2024 Your Node Height: 7156240 | Network Height: 7156240 | Blocks Left: 0
-Thu Oct 10 07:28:35 AM UTC 2024 Your Node Height: 7156241 | Network Height: 7156241 | Blocks Left: 0
-Thu Oct 10 07:28:41 AM UTC 2024 Your Node Height: 7156242 | Network Height: 7156241 | Blocks Left: 0
-Thu Oct 10 07:28:46 AM UTC 2024 Your Node Height: 7156242 | Network Height: 7156242 | Blocks Left: 0
-Thu Oct 10 07:28:51 AM UTC 2024 Your Node Height: 7156243 | Network Height: 7156243 | Blocks Left: 0
-Thu Oct 10 07:28:56 AM UTC 2024 Your Node Height: 7156244 | Network Height: 7156244 | Blocks Left: 0
-Thu Oct 10 07:29:02 AM UTC 2024 Your Node Height: 7156245 | Network Height: 7156245 | Blocks Left: 0
-Thu Oct 10 07:29:07 AM UTC 2024 Your Node Height: 7156246 | Network Height: 7156246 | Blocks Left: 0
+Thu Oct 10 07:32:28 AM UTC 2024 Your Node Height: 7156281 | Network Height: 7156281 | Blocks Left: 0
+Thu Oct 10 07:32:33 AM UTC 2024 Your Node Height: 7156281 | Network Height: 7156281 | Blocks Left: 0
+Thu Oct 10 07:32:38 AM UTC 2024 Your Node Height: 7156282 | Network Height: 7156282 | Blocks Left: 0
+Thu Oct 10 07:32:43 AM UTC 2024 Your Node Height: 7156283 | Network Height: 7156283 | Blocks Left: 0
+Thu Oct 10 07:32:49 AM UTC 2024 Your Node Height: 7156284 | Network Height: 7156284 | Blocks Left: 0
+Thu Oct 10 07:32:54 AM UTC 2024 Your Node Height: 7156285 | Network Height: 7156285 | Blocks Left: 0
+Thu Oct 10 07:32:59 AM UTC 2024 Your Node Height: 7156286 | Network Height: 7156286 | Blocks Left: 0
+Thu Oct 10 07:33:05 AM UTC 2024 Your Node Height: 7156287 | Network Height: 7156287 | Blocks Left: 0
+Thu Oct 10 07:33:10 AM UTC 2024 Your Node Height: 7156288 | Network Height: 7156288 | Blocks Left: 0
+Thu Oct 10 07:33:15 AM UTC 2024 Your Node Height: 7156289 | Network Height: 7156289 | Blocks Left: 0
+Thu Oct 10 07:33:21 AM UTC 2024 Your Node Height: 7156290 | Network Height: 7156290 | Blocks Left: 0
+Thu Oct 10 07:33:26 AM UTC 2024 Your Node Height: 7156291 | Network Height: 7156291 | Blocks Left: 0
+Thu Oct 10 07:33:31 AM UTC 2024 Your Node Height: 7156291 | Network Height: 7156291 | Blocks Left: 0
+Thu Oct 10 07:33:37 AM UTC 2024 Your Node Height: 7156292 | Network Height: 7156292 | Blocks Left: 0
+Thu Oct 10 07:33:42 AM UTC 2024 Your Node Height: 7156293 | Network Height: 7156293 | Blocks Left: 0
+Thu Oct 10 07:33:48 AM UTC 2024 Your Node Height: 7156294 | Network Height: 7156294 | Blocks Left: 0
+Thu Oct 10 07:33:53 AM UTC 2024 Your Node Height: 7156295 | Network Height: 7156295 | Blocks Left: 0
+Thu Oct 10 07:33:58 AM UTC 2024 Your Node Height: 7156296 | Network Height: 7156296 | Blocks Left: 0
+Thu Oct 10 07:34:03 AM UTC 2024 Your Node Height: 7156297 | Network Height: 7156297 | Blocks Left: 0
+Thu Oct 10 07:34:09 AM UTC 2024 Your Node Height: 7156298 | Network Height: 7156298 | Blocks Left: 0
 ```
